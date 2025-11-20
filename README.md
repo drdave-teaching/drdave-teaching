@@ -36,8 +36,8 @@ Dr. Wanik is an Associate Professor In-Residence at the University of Connecticu
 - IoT data ingestion and pipeline automation  
 
 #### **Decentralized AI**
-- Faculty advisor to **BittBridge Labs**  
-- Deep learning time-series models deployed in decentralized networks  
+- Faculty advisor to **BittBridge Labs**, a collaboration between UConn and Yuma/DCG  
+- Deep learning time-series models deployed in decentralized networks (Bittensor)  
 - Student-led subnet design, tokenomics, and AI agent experimentation  
 
 ---
