@@ -25,7 +25,7 @@ Dr. Wanik is an Associate Professor In-Residence at the University of Connecticu
 - Applications in finance, energy, manufacturing  
 
 #### **Cloud Computing & DevOps**
-- **Google Cloud Platform (GCP)**: Cloud Functions Gen2, Cloud Run Jobs, Cloud Scheduler  
+- Google Cloud Platform (Cloud Functions Gen2, Cloud Run Jobs, Cloud Scheduler)
 - GitHub Actions CI/CD · Workload Identity Federation  
 - Serverless ETL pipelines · BigQuery · Cloud Storage  
 - Modular **Bronze → Silver → Gold** data architectures  
