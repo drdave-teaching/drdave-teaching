@@ -1,14 +1,15 @@
-## 👋 Hi, I'm **Dr. David Wanik**
+## 👋 Hi, I'm **Dr. Dave Wanik**
 
  📍 *Associate Professor In-Residence, University of Connecticut*  
  🎓 *Academic Director, Business Data Analytics*  
- 🧠 *IoT Analytics • Optimization • Cloud Computing • Decentralized AI*
+ 🧠 *IoT Analytics • Optimization • Natural Hazards • Cloud Computing • Decentralized AI*
 
 ---
 
 ### 🔬 About Me
 
-Dr. Wanik is an Associate Professor In-Residence at the University of Connecticut, where he teaches and develops graduate courses in optimization, statistics, cloud computing, data science, and deep learning. 
+**Biography**
+Dr. Wanik is an Associate Professor In-Residence at the University of Connecticut, where he teaches and develops graduate courses in optimization, statistics, cloud computing, data science, and deep learning. His background includes extensive applied research and consulting collaborations with industry partners. He previously served as the inaugural Center Manager of the Eversource Energy Center at UConn and has spent nearly 15 years working with utility data across projects involving IoT analytics, natural language processing, remote sensing, and storm-outage forecasting. He serves as Academic Director for Business Data Analytics and advises BittBridge Labs, a student-led experiential learning program in decentralized AI focused on deep learning time-series modeling. Across his teaching and mentorship, Dr. Wanik helps students learn to work with real-world data, build modern analytical workflows, and solve practical challenges faced by industry.
 
 ---
 
@@ -27,8 +28,7 @@ Dr. Wanik is an Associate Professor In-Residence at the University of Connecticu
 #### **Cloud Computing & DevOps**
 - Google Cloud Platform (Cloud Functions Gen2, Cloud Run Jobs, Cloud Scheduler)
 - GitHub Actions CI/CD · Workload Identity Federation  
-- Serverless ETL pipelines · BigQuery · Cloud Storage  
-- Modular **Bronze → Silver → Gold** data architectures  
+- Serverless ETL pipelines · BigQuery · Cloud Storage 
 
 #### **Data Engineering**
 - PySpark · Distributed compute · Databricks  
@@ -37,25 +37,18 @@ Dr. Wanik is an Associate Professor In-Residence at the University of Connecticu
 
 #### **Decentralized AI**
 - Faculty advisor to **BittBridge Labs**, a collaboration between UConn and Yuma/DCG  
-- Deep learning time-series models deployed in decentralized networks (Bittensor)  
-- Student-led subnet design, tokenomics, and AI agent experimentation  
+- Deep learning time-series models deployed in decentralized networks (Bittensor) 
 
 ---
 
 ## 📘 Courses I Teach  
-- **OPIM 5512 – Data Science Using Python**  
-- **OPIM 5509 – Introduction to Deep Learning**  
-- **OPIM 5641 – Business Decision Modeling**  
-- **OPIM 5502 – Big Data Analytics Using Cloud Computing**  
-... and many more!
+* OPIM 3510: Business Data Analytics I
+* OPIM 3510: Business Data Analytics II
+* OPIM 3802: Data and Text Analytics
+* OPIM 5603: Statistics in Business Analytics
+* OPIM 5641: Business Decision Modeling
+* OPIM 5502: Big Data Analytics with Cloud Computing
+* OPIM 5512: Data Science Using Python
+* OPIM 5509: Introduction to Deep Learning
+* OPIM 5516: Advanced Deep Learning
 
----
-
-## 🛠️ Tools & Languages
-
-**Python**, PyTorch, TensorFlow, scikit-learn, LightGBM  
-**PySpark**, SQL, BigQuery  
-**Pyomo**, Gurobi, OR-Tools  
-**GCP**, GitHub Actions, Docker, Cloud Functions Gen2  
-**Geospatial:** rioxarray, rasterstats, HRRR/RTMA GRIB workflows  
-**Visualization:** matplotlib, seaborn, Plotly  
