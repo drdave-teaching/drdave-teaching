@@ -8,8 +8,7 @@
 
 ### 🔬 About Me
 
-**Biography**
-Dr. Wanik is an Associate Professor In-Residence at the University of Connecticut, where he teaches and develops graduate courses in optimization, statistics, cloud computing, data science, and deep learning. His background includes extensive applied research and consulting collaborations with industry partners. He previously served as the inaugural Center Manager of the Eversource Energy Center at UConn and has spent nearly 15 years working with utility data across projects involving IoT analytics, natural language processing, remote sensing, and storm-outage forecasting. He serves as Academic Director for Business Data Analytics and advises BittBridge Labs, a student-led experiential learning program in decentralized AI focused on deep learning time-series modeling. Across his teaching and mentorship, Dr. Wanik helps students learn to work with real-world data, build modern analytical workflows, and solve practical challenges faced by industry.
+Dr. Wanik is an Associate Professor In-Residence at the University of Connecticut, where he teaches and develops graduate courses in optimization, statistics, cloud computing, data science, and deep learning. His background includes extensive applied research and consulting collaborations with industry partners. He previously served as the inaugural Center Manager of the Eversource Energy Center at UConn and has spent nearly 15 years working with utilities across projects involving IoT analytics, natural language processing, remote sensing, and storm-outage forecasting. He serves as Academic Director for Business Data Analytics and advises BittBridge Labs, a student-led experiential learning program in decentralized AI. Across his teaching and mentorship, Dr. Wanik helps students learn to work with real-world data, build modern analytical workflows, and solve practical challenges faced by industry.
 
 ---
 
