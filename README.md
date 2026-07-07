@@ -12,7 +12,35 @@ Dr. Wanik is an Associate Professor In-Residence at the University of Connecticu
 
 ---
 
-### 🧰 Technical Areas I Work In
+## 📚 Course companion books & notebooks
+
+Every course is taught hands-on in **Python / Google Colab** (or **R**, for statistics). Each has a free, browser-readable **companion book** built from the lecture videos — banner, chapter narratives, and per-lecture 📌 key points — and most ship a repo of **run-anywhere Colab notebooks**.
+
+| Course | Companion book | Notebooks |
+|---|---|---|
+| **OPIM 3510** · Business Data Analytics I | [📖 Read](https://drdave-teaching.github.io/opim3510-textbook/) | — |
+| **OPIM 5502** · Big Data Analytics with Cloud Computing | [📖 Read](https://drdave-teaching.github.io/opim5502-textbook/) | [💻 Colab](https://github.com/drdave-teaching/OPIM5502-notebooks) |
+| **OPIM 5509** · Introduction to Deep Learning | [📖 Read](https://drdave-teaching.github.io/opim5509-textbook/) | [💻 Colab](https://github.com/drdave-teaching/OPIM5509-notebooks) |
+| **OPIM 5512** · Data Science Using Python | [📖 Read](https://drdave-teaching.github.io/opim5512-textbook/) | [💻 Colab](https://github.com/drdave-teaching/OPIM5512-notebooks) |
+| **OPIM 5516** · Advanced Deep Learning | [📖 Read](https://drdave-teaching.github.io/opim5516-textbook/) | [💻 Colab](https://github.com/drdave-teaching/OPIM5516-notebooks) |
+| **OPIM 5603** · Statistics in Business Analytics | [📖 Read](https://drdave-teaching.github.io/opim5603-textbook/) | — |
+| **OPIM 5641** · Business Decision Modeling | [📖 Read](https://drdave-teaching.github.io/opim5641-textbook/) | [💻 Colab](https://github.com/drdave-teaching/OPIM5641-notebooks) |
+
+*Also teach: **OPIM 3511** Business Data Analytics II and **OPIM 3802** Data & Text Analytics.*
+
+---
+
+## 🎓 How much I teach
+
+A busy teaching load across the graduate and undergraduate data-science curriculum — often **4–6 courses and 100+ students a semester**, colored by subject below:
+
+![Dr. Dave Wanik's teaching load by semester — major courses colored by subject with enrollments](teaching.svg)
+
+<sub>Major courses (5+ students); multiple sections of a course combined. A few earlier terms are still being added.</sub>
+
+---
+
+## 🧰 Technical Areas I Work In
 
 #### **Machine Learning & AI**
 - Deep learning (CNNs, RNNs, LSTMs, transformers)  
@@ -37,17 +65,3 @@ Dr. Wanik is an Associate Professor In-Residence at the University of Connecticu
 #### **Decentralized AI**
 - Faculty advisor to **BittBridge Labs**, a collaboration between UConn and Yuma/DCG  
 - Deep learning time-series models deployed in decentralized networks (Bittensor) 
-
----
-
-## 📘 Courses I Teach  
-* OPIM 3510: Business Data Analytics I
-* OPIM 3510: Business Data Analytics II
-* OPIM 3802: Data and Text Analytics
-* OPIM 5603: Statistics in Business Analytics
-* OPIM 5641: Business Decision Modeling
-* OPIM 5502: Big Data Analytics with Cloud Computing
-* OPIM 5512: Data Science Using Python
-* OPIM 5509: Introduction to Deep Learning
-* OPIM 5516: Advanced Deep Learning
-
