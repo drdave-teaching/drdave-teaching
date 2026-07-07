@@ -36,7 +36,7 @@ A busy teaching load across the graduate and undergraduate data-science curricul
 
 ![Dr. Dave Wanik's teaching load by semester — major courses colored by subject with enrollments](teaching.svg)
 
-<sub>Major courses (5+ students); multiple sections of a course combined. A few earlier terms are still being added.</sub>
+<sub>Major courses (5+ students); multiple sections of a course combined. Deep Learning has run since 2019 — first as OPIM 5894 (special topics), then as OPIM 5509. A few earlier terms are still being added.</sub>
 
 ---
 

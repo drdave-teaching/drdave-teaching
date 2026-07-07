@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="730" height="468" viewBox="0 0 730 468" font-family="Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-label="Dr. Dave Wanik teaching load by semester, courses colored by subject, numbers show enrollment">
-<rect x="0.5" y="0.5" width="729" height="467" rx="14" fill="#FDFDFB" stroke="#E4E2DA"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="672" height="468" viewBox="0 0 672 468" font-family="Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-label="Dr. Dave Wanik teaching load by semester, courses colored by subject, numbers show enrollment">
+<rect x="0.5" y="0.5" width="671" height="467" rx="14" fill="#FDFDFB" stroke="#E4E2DA"/>
 <text x="22" y="34" font-size="19" font-weight="700" fill="#1F1E1B">Teaching at UConn &#183; School of Business</text>
 <text x="22" y="56" font-size="12.5" fill="#6B6A63">Dr. Dave Wanik &#183; major courses (5+ students), multiple sections combined &#183; number = enrollment</text>
 <rect x="22" y="67" width="11" height="11" rx="3" fill="#F7C1C1"/>
@@ -18,8 +18,6 @@
 <text x="38" y="114" font-size="11" fill="#6B6A63"><tspan font-weight="700" fill="#0C447C">5603</tspan> Statistics</text>
 <rect x="258" y="105" width="11" height="11" rx="3" fill="#F5C4B3"/>
 <text x="274" y="114" font-size="11" fill="#6B6A63"><tspan font-weight="700" fill="#712B13">5641</tspan> Decision Modeling</text>
-<rect x="494" y="105" width="11" height="11" rx="3" fill="#D3D1C7"/>
-<text x="510" y="114" font-size="11" fill="#6B6A63"><tspan font-weight="700" fill="#444441">5894</tspan> Special-Topics Seminar</text>
 <text x="22" y="147" font-size="11" font-weight="700" fill="#6B6A63">Term</text>
 <text x="155" y="147" font-size="11" font-weight="700" text-anchor="middle" fill="#791F1F">3510</text>
 <text x="213" y="147" font-size="11" font-weight="700" text-anchor="middle" fill="#72243E">3511</text>
@@ -29,9 +27,8 @@
 <text x="445" y="147" font-size="11" font-weight="700" text-anchor="middle" fill="#085041">5516</text>
 <text x="503" y="147" font-size="11" font-weight="700" text-anchor="middle" fill="#0C447C">5603</text>
 <text x="561" y="147" font-size="11" font-weight="700" text-anchor="middle" fill="#712B13">5641</text>
-<text x="619" y="147" font-size="11" font-weight="700" text-anchor="middle" fill="#444441">5894</text>
-<text x="704" y="147" font-size="11" font-weight="700" text-anchor="end" fill="#6B6A63">Total</text>
-<line x1="22" y1="156" x2="708" y2="156" stroke="#E4E2DA"/>
+<text x="646" y="147" font-size="11" font-weight="700" text-anchor="end" fill="#6B6A63">Total</text>
+<line x1="22" y1="156" x2="650" y2="156" stroke="#E4E2DA"/>
 <text x="22" y="174" font-size="12" fill="#1F1E1B">Fall 2026</text>
 <rect x="305" y="160" width="48" height="21" rx="5" fill="#FAC775"/>
 <text x="329" y="174" font-size="12" font-weight="700" text-anchor="middle" fill="#633806">27</text>
@@ -39,8 +36,8 @@
 <text x="387" y="174" font-size="12" font-weight="700" text-anchor="middle" fill="#3C3489">15</text>
 <rect x="537" y="160" width="48" height="21" rx="5" fill="#F5C4B3"/>
 <text x="561" y="174" font-size="12" font-weight="700" text-anchor="middle" fill="#712B13">11</text>
-<text x="704" y="174" font-size="12.5" font-weight="700" text-anchor="end" fill="#1F1E1B">53</text>
-<rect x="16" y="185" width="698" height="29" fill="#F6F5F0"/>
+<text x="646" y="174" font-size="12.5" font-weight="700" text-anchor="end" fill="#1F1E1B">53</text>
+<rect x="16" y="185" width="640" height="29" fill="#F6F5F0"/>
 <text x="22" y="204" font-size="12" fill="#1F1E1B">Spring 2026</text>
 <rect x="305" y="189" width="48" height="21" rx="5" fill="#FAC775"/>
 <text x="329" y="204" font-size="12" font-weight="700" text-anchor="middle" fill="#633806">47</text>
@@ -50,7 +47,7 @@
 <text x="445" y="204" font-size="12" font-weight="700" text-anchor="middle" fill="#085041">12</text>
 <rect x="537" y="189" width="48" height="21" rx="5" fill="#F5C4B3"/>
 <text x="561" y="204" font-size="12" font-weight="700" text-anchor="middle" fill="#712B13">11</text>
-<text x="704" y="204" font-size="12.5" font-weight="700" text-anchor="end" fill="#1F1E1B">105</text>
+<text x="646" y="204" font-size="12.5" font-weight="700" text-anchor="end" fill="#1F1E1B">105</text>
 <text x="22" y="232" font-size="12" fill="#1F1E1B">Fall 2025</text>
 <rect x="189" y="218" width="48" height="21" rx="5" fill="#F4C0D1"/>
 <text x="213" y="232" font-size="12" font-weight="700" text-anchor="middle" fill="#72243E">17</text>
@@ -58,8 +55,8 @@
 <text x="329" y="232" font-size="12" font-weight="700" text-anchor="middle" fill="#633806">32</text>
 <rect x="537" y="218" width="48" height="21" rx="5" fill="#F5C4B3"/>
 <text x="561" y="232" font-size="12" font-weight="700" text-anchor="middle" fill="#712B13">13</text>
-<text x="704" y="232" font-size="12.5" font-weight="700" text-anchor="end" fill="#1F1E1B">62</text>
-<rect x="16" y="243" width="698" height="29" fill="#F6F5F0"/>
+<text x="646" y="232" font-size="12.5" font-weight="700" text-anchor="end" fill="#1F1E1B">62</text>
+<rect x="16" y="243" width="640" height="29" fill="#F6F5F0"/>
 <text x="22" y="262" font-size="12" fill="#1F1E1B">Spring 2025</text>
 <rect x="247" y="247" width="48" height="21" rx="5" fill="#C0DD97"/>
 <text x="271" y="262" font-size="12" font-weight="700" text-anchor="middle" fill="#27500A">28</text>
@@ -69,7 +66,7 @@
 <text x="387" y="262" font-size="12" font-weight="700" text-anchor="middle" fill="#3C3489">49</text>
 <rect x="537" y="247" width="48" height="21" rx="5" fill="#F5C4B3"/>
 <text x="561" y="262" font-size="12" font-weight="700" text-anchor="middle" fill="#712B13">10</text>
-<text x="704" y="262" font-size="12.5" font-weight="700" text-anchor="end" fill="#1F1E1B">101</text>
+<text x="646" y="262" font-size="12.5" font-weight="700" text-anchor="end" fill="#1F1E1B">101</text>
 <text x="22" y="290" font-size="12" fill="#1F1E1B">Fall 2024</text>
 <rect x="305" y="276" width="48" height="21" rx="5" fill="#FAC775"/>
 <text x="329" y="290" font-size="12" font-weight="700" text-anchor="middle" fill="#633806">33</text>
@@ -77,8 +74,8 @@
 <text x="387" y="290" font-size="12" font-weight="700" text-anchor="middle" fill="#3C3489">45</text>
 <rect x="537" y="276" width="48" height="21" rx="5" fill="#F5C4B3"/>
 <text x="561" y="290" font-size="12" font-weight="700" text-anchor="middle" fill="#712B13">14</text>
-<text x="704" y="290" font-size="12.5" font-weight="700" text-anchor="end" fill="#1F1E1B">92</text>
-<rect x="16" y="301" width="698" height="29" fill="#F6F5F0"/>
+<text x="646" y="290" font-size="12.5" font-weight="700" text-anchor="end" fill="#1F1E1B">92</text>
+<rect x="16" y="301" width="640" height="29" fill="#F6F5F0"/>
 <text x="22" y="320" font-size="12" fill="#1F1E1B">Spring 2024</text>
 <rect x="131" y="305" width="48" height="21" rx="5" fill="#F7C1C1"/>
 <text x="155" y="320" font-size="12" font-weight="700" text-anchor="middle" fill="#791F1F">25</text>
@@ -90,7 +87,7 @@
 <text x="387" y="320" font-size="12" font-weight="700" text-anchor="middle" fill="#3C3489">47</text>
 <rect x="537" y="305" width="48" height="21" rx="5" fill="#F5C4B3"/>
 <text x="561" y="320" font-size="12" font-weight="700" text-anchor="middle" fill="#712B13">22</text>
-<text x="704" y="320" font-size="12.5" font-weight="700" text-anchor="end" fill="#1F1E1B">152</text>
+<text x="646" y="320" font-size="12.5" font-weight="700" text-anchor="end" fill="#1F1E1B">152</text>
 <text x="22" y="348" font-size="12" fill="#1F1E1B">Fall 2023</text>
 <rect x="305" y="334" width="48" height="21" rx="5" fill="#FAC775"/>
 <text x="329" y="348" font-size="12" font-weight="700" text-anchor="middle" fill="#633806">31</text>
@@ -98,8 +95,8 @@
 <text x="387" y="348" font-size="12" font-weight="700" text-anchor="middle" fill="#3C3489">50</text>
 <rect x="537" y="334" width="48" height="21" rx="5" fill="#F5C4B3"/>
 <text x="561" y="348" font-size="12" font-weight="700" text-anchor="middle" fill="#712B13">17</text>
-<text x="704" y="348" font-size="12.5" font-weight="700" text-anchor="end" fill="#1F1E1B">98</text>
-<rect x="16" y="359" width="698" height="29" fill="#F6F5F0"/>
+<text x="646" y="348" font-size="12.5" font-weight="700" text-anchor="end" fill="#1F1E1B">98</text>
+<rect x="16" y="359" width="640" height="29" fill="#F6F5F0"/>
 <text x="22" y="378" font-size="12" fill="#1F1E1B">Fall 2022</text>
 <rect x="305" y="363" width="48" height="21" rx="5" fill="#FAC775"/>
 <text x="329" y="378" font-size="12" font-weight="700" text-anchor="middle" fill="#633806">53</text>
@@ -107,7 +104,7 @@
 <text x="387" y="378" font-size="12" font-weight="700" text-anchor="middle" fill="#3C3489">35</text>
 <rect x="537" y="363" width="48" height="21" rx="5" fill="#F5C4B3"/>
 <text x="561" y="378" font-size="12" font-weight="700" text-anchor="middle" fill="#712B13">34</text>
-<text x="704" y="378" font-size="12.5" font-weight="700" text-anchor="end" fill="#1F1E1B">122</text>
+<text x="646" y="378" font-size="12.5" font-weight="700" text-anchor="end" fill="#1F1E1B">122</text>
 <text x="22" y="406" font-size="12" fill="#1F1E1B">Spring 2020</text>
 <rect x="305" y="392" width="48" height="21" rx="5" fill="#FAC775"/>
 <text x="329" y="406" font-size="12" font-weight="700" text-anchor="middle" fill="#633806">41</text>
@@ -117,10 +114,10 @@
 <text x="503" y="406" font-size="12" font-weight="700" text-anchor="middle" fill="#0C447C">26</text>
 <rect x="537" y="392" width="48" height="21" rx="5" fill="#F5C4B3"/>
 <text x="561" y="406" font-size="12" font-weight="700" text-anchor="middle" fill="#712B13">48</text>
-<text x="704" y="406" font-size="12.5" font-weight="700" text-anchor="end" fill="#1F1E1B">159</text>
-<rect x="16" y="417" width="698" height="29" fill="#F6F5F0"/>
+<text x="646" y="406" font-size="12.5" font-weight="700" text-anchor="end" fill="#1F1E1B">159</text>
+<rect x="16" y="417" width="640" height="29" fill="#F6F5F0"/>
 <text x="22" y="436" font-size="12" fill="#1F1E1B">Spring 2019</text>
-<rect x="595" y="421" width="48" height="21" rx="5" fill="#D3D1C7"/>
-<text x="619" y="436" font-size="12" font-weight="700" text-anchor="middle" fill="#444441">44</text>
-<text x="704" y="436" font-size="12.5" font-weight="700" text-anchor="end" fill="#1F1E1B">44</text>
+<rect x="305" y="421" width="48" height="21" rx="5" fill="#FAC775"/>
+<text x="329" y="436" font-size="12" font-weight="700" text-anchor="middle" fill="#633806">44</text>
+<text x="646" y="436" font-size="12.5" font-weight="700" text-anchor="end" fill="#1F1E1B">44</text>
 </svg>
