@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="672" height="468" viewBox="0 0 672 468" font-family="Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-label="Dr. Dave Wanik teaching load by semester, courses colored by subject, numbers show enrollment">
-<rect x="0.5" y="0.5" width="671" height="467" rx="14" fill="#FDFDFB" stroke="#E4E2DA"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="672" height="497" viewBox="0 0 672 497" font-family="Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-label="Dr. Dave Wanik teaching load by semester, courses colored by subject, numbers show enrollment">
+<rect x="0.5" y="0.5" width="671" height="496" rx="14" fill="#FDFDFB" stroke="#E4E2DA"/>
 <text x="22" y="34" font-size="19" font-weight="700" fill="#1F1E1B">Teaching at UConn &#183; School of Business</text>
 <text x="22" y="56" font-size="12.5" fill="#6B6A63">Dr. Dave Wanik &#183; major courses (5+ students), multiple sections combined &#183; number = enrollment</text>
 <rect x="22" y="67" width="11" height="11" rx="3" fill="#F7C1C1"/>
@@ -116,8 +116,16 @@
 <text x="561" y="406" font-size="12" font-weight="700" text-anchor="middle" fill="#712B13">48</text>
 <text x="646" y="406" font-size="12.5" font-weight="700" text-anchor="end" fill="#1F1E1B">159</text>
 <rect x="16" y="417" width="640" height="29" fill="#F6F5F0"/>
-<text x="22" y="436" font-size="12" fill="#1F1E1B">Spring 2019</text>
+<text x="22" y="436" font-size="12" fill="#1F1E1B">Fall 2019</text>
 <rect x="305" y="421" width="48" height="21" rx="5" fill="#FAC775"/>
-<text x="329" y="436" font-size="12" font-weight="700" text-anchor="middle" fill="#633806">44</text>
-<text x="646" y="436" font-size="12.5" font-weight="700" text-anchor="end" fill="#1F1E1B">44</text>
+<text x="329" y="436" font-size="12" font-weight="700" text-anchor="middle" fill="#633806">25</text>
+<rect x="479" y="421" width="48" height="21" rx="5" fill="#B5D4F4"/>
+<text x="503" y="436" font-size="12" font-weight="700" text-anchor="middle" fill="#0C447C">55</text>
+<rect x="537" y="421" width="48" height="21" rx="5" fill="#F5C4B3"/>
+<text x="561" y="436" font-size="12" font-weight="700" text-anchor="middle" fill="#712B13">12</text>
+<text x="646" y="436" font-size="12.5" font-weight="700" text-anchor="end" fill="#1F1E1B">92</text>
+<text x="22" y="464" font-size="12" fill="#1F1E1B">Spring 2019</text>
+<rect x="305" y="450" width="48" height="21" rx="5" fill="#FAC775"/>
+<text x="329" y="464" font-size="12" font-weight="700" text-anchor="middle" fill="#633806">44</text>
+<text x="646" y="464" font-size="12.5" font-weight="700" text-anchor="end" fill="#1F1E1B">44</text>
 </svg>
