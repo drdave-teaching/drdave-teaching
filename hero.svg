@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" font-family="Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-label="Dr. Dave Wanik — Associate Professor In-Residence, University of Connecticut">
+<rect width="1200" height="240" rx="18" fill="#0B1F3F"/>
+<rect width="14" height="240" rx="7" fill="#071528"/>
+<text x="1148" y="196" text-anchor="end" font-size="150" font-weight="700" fill="#16345F" opacity="0.9">OPIM</text>
+<text x="52" y="96" font-size="52" font-weight="700" fill="#FFFFFF">Dr. Dave Wanik</text>
+<text x="54" y="138" font-size="22" fill="#BFD3EA">Associate Professor In-Residence &#183; Academic Director, Business Data Analytics</text>
+<text x="54" y="172" font-size="18" fill="#8FA9C9">OPIM Department &#183; School of Business &#183; University of Connecticut (Stamford)</text>
+<rect x="54" y="194" width="34" height="10" rx="5" fill="#F09595"/>
+<rect x="96" y="194" width="34" height="10" rx="5" fill="#ED93B1"/>
+<rect x="138" y="194" width="34" height="10" rx="5" fill="#97C459"/>
+<rect x="180" y="194" width="34" height="10" rx="5" fill="#EF9F27"/>
+<rect x="222" y="194" width="34" height="10" rx="5" fill="#AFA9EC"/>
+<rect x="264" y="194" width="34" height="10" rx="5" fill="#5DCAA5"/>
+<rect x="306" y="194" width="34" height="10" rx="5" fill="#85B7EB"/>
+<rect x="348" y="194" width="34" height="10" rx="5" fill="#F0997B"/>
+<text x="398" y="203" font-size="13" fill="#8FA9C9">deep learning &#183; data science &#183; big data &#183; optimization &#183; statistics &#183; analytics</text>
+</svg>
