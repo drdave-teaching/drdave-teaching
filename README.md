@@ -4,7 +4,6 @@
 <a href="https://scholar.google.com/citations?user=xyW8xncAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
 <a href="https://www.business.uconn.edu/person/david-wanik/"><img src="https://img.shields.io/badge/UConn%20Faculty%20Page-000E2F?style=for-the-badge&logo=academia&logoColor=white" alt="UConn faculty page"></a>
 <a href="https://www.linkedin.com/in/david-w-wanik-phd-22502624/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/DWWanikPhD"><img src="https://img.shields.io/badge/@DWWanikPhD-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>
 <a href="mailto:dave.wanik@uconn.edu"><img src="https://img.shields.io/badge/dave.wanik@uconn.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -28,7 +27,7 @@ Every course is taught hands-on in **Python / Google Colab** (or **R**, for stat
 
 | Course | Companion book | Notebooks |
 |---|---|---|
-| **OPIM 3510** · Business Data Analytics I | [Read online](https://drdave-teaching.github.io/opim3510-textbook/) | [39 notebooks](https://github.com/drdave-teaching/OPIM3510-notebooks) |
+| **OPIM 3510** · Business Data Analytics I: Data Storytelling, Applied Stats & Geospatial | [Read online](https://drdave-teaching.github.io/opim3510-textbook/) | [39 notebooks](https://github.com/drdave-teaching/OPIM3510-notebooks) |
 | **OPIM 5502** · Big Data Analytics with Cloud Computing | [Read online](https://drdave-teaching.github.io/opim5502-textbook/) | [46 notebooks](https://github.com/drdave-teaching/OPIM5502-notebooks) |
 | **OPIM 5509** · Introduction to Deep Learning | [Read online](https://drdave-teaching.github.io/opim5509-textbook/) | [47 notebooks](https://github.com/drdave-teaching/OPIM5509-notebooks) |
 | **OPIM 5512** · Data Science Using Python | [Read online](https://drdave-teaching.github.io/opim5512-textbook/) | [43 notebooks](https://github.com/drdave-teaching/OPIM5512-notebooks) |
@@ -36,7 +35,7 @@ Every course is taught hands-on in **Python / Google Colab** (or **R**, for stat
 | **OPIM 5603** · Statistics in Business Analytics | [Read online](https://drdave-teaching.github.io/opim5603-textbook/) | — |
 | **OPIM 5641** · Business Decision Modeling | [Read online](https://drdave-teaching.github.io/opim5641-textbook/) | [93 notebooks](https://github.com/drdave-teaching/OPIM5641-notebooks) |
 
-*Also teach: **OPIM 3511** Business Data Analytics II and **OPIM 3802** Data & Text Analytics.*
+*Also teach: **OPIM 3511** Business Data Analytics II: ML Fundamentals and **OPIM 3802** Data & Text Analytics.*
 
 ## Teaching at UConn
 
