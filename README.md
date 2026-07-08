@@ -17,7 +17,7 @@ Before joining the faculty full-time, I served as the inaugural Center Manager o
 ## Highlights
 
 - 🎓 **1,700+ students taught** across 16 consecutive semesters (2019–2026)
-- 📚 **7 open-access course companion books** and **270+ Colab notebooks**, free to anyone
+- 📚 **7 open-access course companion books** and **300+ Colab notebooks**, free to anyone
 - 📈 **1,750+ citations · h-index 17** ([Google Scholar](https://scholar.google.com/citations?user=xyW8xncAAAAJ))
 - 🏆 **Excellence in Graduate Teaching Award** (2024) · **Innovation in Teaching Award** (2022), UConn School of Business
 - ⚡ Co-developed a **patented storm-outage prediction model**, licensed to a leading weather-analytics company
@@ -28,7 +28,7 @@ Every course is taught hands-on in **Python / Google Colab** (or **R**, for stat
 
 | Course | Companion book | Notebooks |
 |---|---|---|
-| **OPIM 3510** · Business Data Analytics I | [Read online](https://drdave-teaching.github.io/opim3510-textbook/) | — |
+| **OPIM 3510** · Business Data Analytics I | [Read online](https://drdave-teaching.github.io/opim3510-textbook/) | [39 notebooks](https://github.com/drdave-teaching/OPIM3510-notebooks) |
 | **OPIM 5502** · Big Data Analytics with Cloud Computing | [Read online](https://drdave-teaching.github.io/opim5502-textbook/) | [46 notebooks](https://github.com/drdave-teaching/OPIM5502-notebooks) |
 | **OPIM 5509** · Introduction to Deep Learning | [Read online](https://drdave-teaching.github.io/opim5509-textbook/) | [47 notebooks](https://github.com/drdave-teaching/OPIM5509-notebooks) |
 | **OPIM 5512** · Data Science Using Python | [Read online](https://drdave-teaching.github.io/opim5512-textbook/) | [43 notebooks](https://github.com/drdave-teaching/OPIM5512-notebooks) |
