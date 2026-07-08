@@ -16,7 +16,7 @@ Before joining the faculty full-time, I served as the inaugural Center Manager o
 ## Highlights
 
 - 🎓 **1,700+ students taught** across 16 consecutive semesters (2019–2026)
-- 📚 **7 open-access course companion books** and **300+ Colab notebooks**, free to anyone
+- 📚 **8 open-access course companion books** and **450+ Colab notebooks**, free to anyone
 - 📈 **1,750+ citations · h-index 17** ([Google Scholar](https://scholar.google.com/citations?user=xyW8xncAAAAJ))
 - 🏆 **Excellence in Graduate Teaching Award** (2024) · **Innovation in Teaching Award** (2022), UConn School of Business
 - ⚡ Co-developed a **patented storm-outage prediction model**, licensed to a leading weather-analytics company
@@ -27,6 +27,7 @@ Every course is taught hands-on in **Python / Google Colab** (or **R**, for stat
 
 | Course | Companion book | Notebooks |
 |---|---|---|
+| **OPIM 3511** · Business Data Analytics II: ML Fundamentals | [Read online](https://drdave-teaching.github.io/opim3511-textbook/) | [169 notebooks](https://github.com/drdave-teaching/OPIM3511-notebooks) |
 | **OPIM 3510** · Business Data Analytics I: Data Storytelling, Applied Stats & Geospatial | [Read online](https://drdave-teaching.github.io/opim3510-textbook/) | [39 notebooks](https://github.com/drdave-teaching/OPIM3510-notebooks) |
 | **OPIM 5502** · Big Data Analytics with Cloud Computing | [Read online](https://drdave-teaching.github.io/opim5502-textbook/) | [46 notebooks](https://github.com/drdave-teaching/OPIM5502-notebooks) |
 | **OPIM 5509** · Introduction to Deep Learning | [Read online](https://drdave-teaching.github.io/opim5509-textbook/) | [47 notebooks](https://github.com/drdave-teaching/OPIM5509-notebooks) |
@@ -35,7 +36,7 @@ Every course is taught hands-on in **Python / Google Colab** (or **R**, for stat
 | **OPIM 5603** · Statistics in Business Analytics | [Read online](https://drdave-teaching.github.io/opim5603-textbook/) | — |
 | **OPIM 5641** · Business Decision Modeling | [Read online](https://drdave-teaching.github.io/opim5641-textbook/) | [93 notebooks](https://github.com/drdave-teaching/OPIM5641-notebooks) |
 
-*Also teach: **OPIM 3511** Business Data Analytics II: ML Fundamentals and **OPIM 3802** Data & Text Analytics.*
+*Also teach: **OPIM 3802** Data & Text Analytics.*
 
 ## Teaching at UConn
 
