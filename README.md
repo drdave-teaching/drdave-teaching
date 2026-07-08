@@ -28,7 +28,7 @@ Every course is taught hands-on in **Python / Google Colab** (or **R**, for stat
 | Course | Companion book | Notebooks |
 |---|---|---|
 | **OPIM 3510** · Business Data Analytics I: Data Storytelling, Applied Stats & Geospatial | [Read online](https://drdave-teaching.github.io/opim3510-textbook/) | [39 notebooks](https://github.com/drdave-teaching/OPIM3510-notebooks) |
-| **OPIM 3511** · Business Data Analytics II: ML Fundamentals | [Read online](https://drdave-teaching.github.io/opim3511-textbook/) | [169 notebooks](https://github.com/drdave-teaching/OPIM3511-notebooks) |
+| **OPIM 3511** · Business Data Analytics II: ML Fundamentals | [Read online](https://drdave-teaching.github.io/opim3511-textbook/) | [139 notebooks](https://github.com/drdave-teaching/OPIM3511-notebooks) |
 | **OPIM 5502** · Big Data Analytics with Cloud Computing | [Read online](https://drdave-teaching.github.io/opim5502-textbook/) | [46 notebooks](https://github.com/drdave-teaching/OPIM5502-notebooks) |
 | **OPIM 5509** · Introduction to Deep Learning | [Read online](https://drdave-teaching.github.io/opim5509-textbook/) | [47 notebooks](https://github.com/drdave-teaching/OPIM5509-notebooks) |
 | **OPIM 5512** · Data Science Using Python | [Read online](https://drdave-teaching.github.io/opim5512-textbook/) | [43 notebooks](https://github.com/drdave-teaching/OPIM5512-notebooks) |
