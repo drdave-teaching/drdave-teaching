@@ -38,6 +38,8 @@ Every course is taught hands-on in **Python / Google Colab** (or **R**, for stat
 
 *Also teach: **OPIM 3802** Data & Text Analytics.*
 
+🗺️ **[Skills Atlas](https://github.com/drdave-teaching/opim-skills-atlas)** — a cross-course map of every skill taught, how the courses build on each other, and how each skill is practiced (by hand · in code · in the cloud).
+
 ## Teaching at UConn
 
 Every fall and spring since 2019 — often **4–5 courses and 100+ students a semester**, colored by subject:
