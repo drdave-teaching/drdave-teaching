@@ -15,11 +15,11 @@ Before joining the faculty full-time, I served as the inaugural Center Manager o
 
 ## Highlights
 
-- 🎓 **1,700+ students taught** across 16 consecutive semesters (2019–2026)
-- 📚 **8 open-access course companion books** and **450+ Colab notebooks**, free to anyone
-- 📈 **1,750+ citations · h-index 17** ([Google Scholar](https://scholar.google.com/citations?user=xyW8xncAAAAJ))
-- 🏆 **Excellence in Graduate Teaching Award** (2024) · **Innovation in Teaching Award** (2022), UConn School of Business
-- ⚡ Co-developed a **patented storm-outage prediction model**, licensed to a leading weather-analytics company
+- **1,700+ students taught** across 16 consecutive semesters (2019–2026)
+- **8 open-access course companion books** and **450+ Colab notebooks**, free to anyone
+- **1,750+ citations · h-index 17** ([Google Scholar](https://scholar.google.com/citations?user=xyW8xncAAAAJ))
+- **Excellence in Graduate Teaching Award** (2024) · **Innovation in Teaching Award** (2022), UConn School of Business
+- Co-developed a **patented storm-outage prediction model**, licensed to a leading weather-analytics company
 
 ## Course companion books & notebooks
 
@@ -36,7 +36,7 @@ Every course is taught hands-on in **Python / Google Colab** (or **R**, for stat
 | **OPIM 5603** · Statistics in Business Analytics | [Read online](https://drdave-teaching.github.io/opim5603-textbook/) | — |
 | **OPIM 5641** · Business Decision Modeling | [Read online](https://drdave-teaching.github.io/opim5641-textbook/) | [93 notebooks](https://github.com/drdave-teaching/OPIM5641-notebooks) |
 
-🗺️ **[Skills Atlas](https://github.com/drdave-teaching/opim-skills-atlas)** — a cross-course map of every skill taught, how the courses build on each other, and how each skill is practiced (by hand · in code · in the cloud).
+**[Skills Atlas](https://github.com/drdave-teaching/opim-skills-atlas)** — a cross-course map of every skill taught, how the courses build on each other, and how each skill is practiced (by hand · in code · in the cloud).
 
 ## Teaching at UConn
 
