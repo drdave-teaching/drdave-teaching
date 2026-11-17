@@ -76,4 +76,4 @@ My research applies **machine learning to weather-driven risk for critical infra
 
 ---
 
-<sub>📍 School of Business, University of Connecticut — Stamford campus · Everything on this page (books, notebooks, code) is open — use it, fork it, learn from it.</sub>
+<sub>School of Business, University of Connecticut (Stamford). The books, notebooks, and code linked here are free to use.</sub>
