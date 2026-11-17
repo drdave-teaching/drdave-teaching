@@ -9,9 +9,9 @@
 
 ## About
 
-I'm an Associate Professor In-Residence in the Operations and Information Management department at the University of Connecticut (Stamford), and Academic Director for **Business Data Analytics**. I teach and develop the graduate and undergraduate data-science curriculum — optimization, statistics, cloud computing, data science, and deep learning — all hands-on, in Python and Google Colab.
+I'm an Associate Professor In-Residence in the Operations and Information Management department at the University of Connecticut (Stamford), and Associated Faculty in Civil and Environmental Engineering. I teach and develop the graduate and undergraduate data-science curriculum — optimization, statistics, cloud computing, data science, and deep learning — all hands-on, in Python and Google Colab.
 
-Before joining the faculty full-time, I served as the inaugural Center Manager of the **Eversource Energy Center** at UConn, and I've spent nearly 15 years working with utilities on IoT analytics, natural language processing, remote sensing, and storm-outage forecasting. I also advise **BittBridge Labs**, a student-led experiential learning program in decentralized AI (a UConn collaboration with Yuma/DCG). I'm a three-time UConn alum (BS Environmental Science; MS & PhD Environmental Engineering).
+Before joining the faculty full-time, I served as the inaugural Center Manager of the **Eversource Energy Center** at UConn, and I've spent nearly 15 years working with utilities and insurers on IoT analytics, remote sensing, and storm-outage forecasting. From 2025 to 2026 I advised **BittBridge**, a student program in decentralized AI funded by Yuma (a DCG company). I'm a three-time UConn alum (BS Environmental Science; MS & PhD Environmental Engineering).
 
 ## Highlights
 
@@ -48,25 +48,31 @@ Every fall and spring since 2019 — often **4–5 courses and 100+ students a s
 
 ## Research
 
-My research sits at the intersection of **machine learning and natural-hazard resilience**: storm-outage prediction for electric utilities, weather-impact modeling with remote sensing and LiDAR, energy analytics, and coastal-population dynamics.
+My research applies **machine learning to weather-driven risk for critical infrastructure**: storm-outage prediction for electric utilities, probabilistic energy-demand forecasting, and geospatial representation learning with aerial imagery and LiDAR.
+
+**Current projects** (industry-funded, PI):
+- **Travelers** · *Geospatial foundation models for property insurance* (2026–2027): self-supervised embeddings of individual parcels from aerial imagery, LiDAR, and property attributes for look-alike search, neighborhood segmentation, and change detection.
+- **Control Station** · *Industrial process-control analytics* (2025–2026): linking PID control-loop performance to production outcomes in industrial process data; continuing as a CS + business analytics senior design project.
+- **Yuma / BittBridge** · *Decentralized AI* (2025–2026, concluded): graduate fellowships for students who built and ran live forecasting subnets on the Bittensor network.
 
 **Selected publications** ([full list on Google Scholar](https://scholar.google.com/citations?user=xyW8xncAAAAJ)):
 - *Accelerating growth of human coastal populations at the global and continent levels: 2000–2018* (2024)
-- *Predicting storm outages through new representations of weather and vegetation* (2019)
+- *The predictability of power outages from a new representation of weather and vegetation impacts in non-parametric modeling* (2019)
+- *Predicting county-level population from VIIRS nighttime light imagery with deep learning* (2024)
 - *Machine learning using combined structural and chemical descriptors for prediction of methane adsorption performance of MOFs* (2017)
 - *Storm outage modeling for an electric distribution network in Northeastern USA* (2015)
 
 ## Technical areas
 
-**Machine Learning & AI** — deep learning (CNNs, RNNs, LSTMs, transformers) · time-series prediction & forecasting · model explainability, causal ML
+**Machine Learning & AI** — deep learning (CNNs, RNNs, LSTMs, transformers, graph neural networks) · probabilistic time-series forecasting (quantile models, CRPS) · self-supervised geospatial embeddings · model explainability
 
 **Optimization & Decision Science** — linear, nonlinear, and integer programming · Pyomo, Gurobi, OR-Tools · applications in finance, energy, manufacturing
 
-**Cloud Computing & DevOps** — Google Cloud Platform (Cloud Functions Gen2, Cloud Run Jobs, Cloud Scheduler) · GitHub Actions CI/CD · Workload Identity Federation · serverless ETL pipelines · BigQuery · Cloud Storage
+**Cloud Computing & DevOps** — Google Cloud Platform (Cloud Functions Gen2, Cloud Run Jobs, Cloud Scheduler) · Microsoft Azure · GitHub Actions CI/CD · Workload Identity Federation · serverless ETL pipelines · BigQuery · Cloud Storage
 
 **Data Engineering** — PySpark · distributed compute · Databricks · large-scale geospatial & remote sensing (GRIB, NetCDF, HRRR) · IoT data ingestion and pipeline automation
 
-**Decentralized AI** — faculty advisor to **BittBridge Labs** (UConn × Yuma/DCG) · deep-learning time-series models deployed on decentralized networks (Bittensor)
+**Decentralized AI** — faculty advisor to **BittBridge** (UConn × Yuma/DCG, 2025–2026) · deep-learning time-series models deployed on decentralized networks (Bittensor)
 
 ---
 
