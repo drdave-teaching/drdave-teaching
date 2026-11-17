@@ -64,7 +64,7 @@ My research applies **machine learning to weather-driven risk for critical infra
 
 ## Technical areas
 
-**Machine Learning & AI** — deep learning (CNNs, RNNs, LSTMs, transformers, graph neural networks) · probabilistic time-series forecasting (quantile models, CRPS) · self-supervised geospatial embeddings · model explainability
+**Machine Learning & AI** — deep learning (CNNs, RNNs, LSTMs, transformers, graph neural networks) · probabilistic time-series forecasting · self-supervised geospatial embeddings · model explainability
 
 **Optimization & Decision Science** — linear, nonlinear, and integer programming · Pyomo, Gurobi, OR-Tools · applications in finance, energy, manufacturing
 
