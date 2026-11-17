@@ -50,7 +50,7 @@ Every fall and spring since 2019 — often **4–5 courses and 100+ students a s
 
 My research applies **machine learning to weather-driven risk for critical infrastructure**: storm-outage prediction for electric utilities, probabilistic energy-demand forecasting, and geospatial representation learning with aerial imagery and LiDAR.
 
-**Current projects** (industry-funded, PI):
+**Recent projects** (industry-funded, PI):
 - **Travelers** · *Geospatial foundation models for property insurance* (2026–2027): self-supervised embeddings of individual parcels from aerial imagery, LiDAR, and property attributes for look-alike search, neighborhood segmentation, and change detection.
 - **Control Station** · *Industrial process-control analytics* (2025–2026): linking PID control-loop performance to production outcomes in industrial process data; continuing as a CS + business analytics senior design project.
 - **Yuma / BittBridge** · *Decentralized AI* (2025–2026, concluded): graduate fellowships for students who built and ran live forecasting subnets on the Bittensor network.
